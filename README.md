@@ -1,4 +1,10 @@
 # Wvsapi
+wvs 设置configration->scheduler  开启web界面<br/>
+configration->save data results  扫描结果保存方式<br/>
+
+
+
+
 使用wvs api接口开发的一个简单的扫描系统<br />
 主页<br/>
 ![](index.png)<br/>
