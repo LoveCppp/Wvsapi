@@ -2,8 +2,6 @@
 使用wvs api接口开发的一个简单的扫描系统
 
 
-
-
 addScan.php 添加任务文件
 bug.php 显示任务列表文件
 index.php 主页文件
